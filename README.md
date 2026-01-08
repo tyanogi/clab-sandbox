@@ -39,3 +39,4 @@ sudo containerlab deploy -t topologies/mini-topo/mini-topo.clab.yml
 
 ## 注意点
 - 本リポジトリの `.devcontainer` で利用しているイメージは、**arm64 Mac (Apple Silicon)** 向けに構成されています。
+- 開発環境のイメージには `ghcr.io/tyanogi/containerlab-dev:latest` を利用しており、`tyanogi/dotfile` が適用されています。

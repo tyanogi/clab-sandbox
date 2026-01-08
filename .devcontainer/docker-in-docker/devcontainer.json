@@ -1,6 +1,5 @@
 {
-    // "image": "ghcr.io/srl-labs/containerlab/devcontainer-dind-slim:0.60.0",
-    "image": "clab-dev",
+    "image": "ghcr.io/tyanogi/containerlab-dev:latest",
     "remoteUser": "vscode",
     "customizations": {
         "vscode": {
