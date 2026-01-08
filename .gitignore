@@ -1,0 +1,16 @@
+# Containerlab artifacts
+clab-*
+
+# MacOS
+.DS_Store
+
+# SSH Keys (safety)
+*.pem
+*.key
+
+# Temporary files
+*.swp
+*.log
+
+# Geemini
+.gemini_logs
